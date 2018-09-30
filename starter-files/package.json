@@ -16,6 +16,7 @@
   },
   "browserslist": "last 3 versions",
   "dependencies": {
+    "@types/jimp": "^0.2.28",
     "axios": "0.15.3",
     "body-parser": "1.17.1",
     "connect-flash": "0.1.1",
@@ -31,7 +32,7 @@
     "forever": "0.15.3",
     "glob": "7.1.1",
     "html-to-text": "3.2.0",
-    "jimp": "0.2.27",
+    "jimp": "^0.2.27",
     "juice": "4.0.2",
     "md5": "2.2.1",
     "moment": "2.17.1",
